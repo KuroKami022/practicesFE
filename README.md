@@ -13,3 +13,4 @@ buttoms
 id - placeholder *** oculta
 form / formuario - acciones
 anadimos clases para estilizar
+tener muy encuenta responsive al momento de disenar
